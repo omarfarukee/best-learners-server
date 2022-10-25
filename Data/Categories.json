@@ -1,68 +1,68 @@
 [
     {
       "id": "1",
-      "name": "Variables & array",
-      "category_id":  "01",
-      "rating": { "number": 4.5, "badge": "Excellent" },
-      "total_view": 488,
-      "title": "Biden Pledges Nearly $3 Billion To Ukraine In Largest U.S. Military Aid Package Yet",
-      "thumbnail_url": "https://i.ibb.co/QnwC4sG/unsplash-Eh-Tc-C9s-YXsw-11.png",
-      "image_url": "https://i.ibb.co/M23fhxm/unsplash-Eh-Tc-C9s-YXsw.png",
-      "details": "Wednesday, August 24, 2022 | Tag Cloud Tags: Biden, EU, Euro, Europe, Joe Biden, Military, News, Russia"
+      "name": "Java Script",
+      "star": 4.5, 
+      "badge": "Excellent",
+      "about": " There are two reasons why its sometimes hard to make a choice; either there are too few options to choose from, or there are too many. When it comes to programming languages, there is an embarrassment of riches, which in turn can cause mental gridlock. There’s Python, Java, JavaScript, C/CPP, PHP, Swift, C#, Ruby, Objective-C, and SQL, and that’s not even the full list! How do you choose? Now, bear in mind that as far as programmers go, there’s no such thing as knowing too many languages. A programmer with a grasp of many languages is a programmer who is highly marketable and very much in demand. Upskilling is always a smart way to go. Still, you have to start somewhere; and that should be with one of the more popular languages, one that’s experiencing unprecedented growth in demand. "  ,
+
+      "image": "https://img.besthqwallpapers.com/Uploads/19-2-2020/122227/javascript-glitter-logo-programming-language-grid-metal-background-javascript-creative.jpg",
+      "time" : "5 Weeks",
+      "class" : "32 Classes"
     },
     {
       "id": "2",
-      "name": "functions & loop",
-      "category_id":  "02",
-      "rating": { "number": 4.5, "badge": "Excellent" },
-      "total_view": 488,
-      "title": "Biden Pledges Nearly $3 Billion To Ukraine In Largest U.S. Military Aid Package Yet",
-      "thumbnail_url": "https://i.ibb.co/QnwC4sG/unsplash-Eh-Tc-C9s-YXsw-11.png",
-      "image_url": "https://i.ibb.co/M23fhxm/unsplash-Eh-Tc-C9s-YXsw.png",
-      "details": "Wednesday, August 24, 2022 | Tag Cloud Tags: Biden, EU, Euro, Europe, Joe Biden, Military, News, Russia"
+      "name": "Python",
+      "star": 4.5, 
+      "badge": "Excellent",
+      "about": "You might have heard of Python and know that it’s the most popular programming language today. Everyone’s using it, from web developers to data scientists, and increasingly, even ordinary folk. We’re talking individuals, small businesses, even school kids who are learning it. If you’re interested in automating repetitive and time-consuming tasks, making data-based decisions to get an edge over your competitors, or simply learning a highly lucrative skill (a Python developer can earn a six-figure salary) — then yes because all these things are possible with Python.",
+
+      "image": "https://mir-s3-cdn-cf.behance.net/project_modules/2800_opt_1/f5643096750899.5eb54f3381b8f.png",
+      "time" : "24Weeks",
+      "class" : "150 Classes"
     },
     {
       "id": "3",
-      "name": "Advance & ES6",
-      "category_id":  "03",
-      "rating": { "number": 4.5, "badge": "Excellent" },
-      "total_view": 488,
-      "title": "Biden Pledges Nearly $3 Billion To Ukraine In Largest U.S. Military Aid Package Yet",
-      "thumbnail_url": "https://i.ibb.co/QnwC4sG/unsplash-Eh-Tc-C9s-YXsw-11.png",
-      "image_url": "https://i.ibb.co/M23fhxm/unsplash-Eh-Tc-C9s-YXsw.png",
-      "details": "Wednesday, August 24, 2022 | Tag Cloud Tags: Biden, EU, Euro, Europe, Joe Biden, Military, News, Russia"
+      "name": "{ C++ }",
+      "star": 4.5, 
+      "badge": "Excellent",
+      "about": "C++ is a general-purpose programming language. This language is around 40 years old and has been a part of many software problems and projects. C++ language is preferred to make high-performance software and is among the top programming languages. In this tutorial, you will learn about the C++ language and understand the top 10 reasons to learn C++ in 2022. C++ is an advanced language that supports various programming methods like functional, procedural, and object-oriented programming. It is a fast language; its compile-time and execution time is faster than other programming languages. Some programming languages are also faster than C++. Still, like C++, they are not close to the machine code, as it is an intermediary language, so big organizations rely on C++ for fast speed with lesser resources",
+
+      "image": "https://resources.stdio.vn/content/article/9-tinh-nang-quan-trong-trong-c-11/thumbnail-hd/blob-1594895703739@2x.jpg",
+      "time" : "28Weeks",
+      "class" : "180 Classes"
     },
     {
       "id": "4",
-      "name": "Problems solving",
-      "category_id":  "04",
-      "rating": { "number": 4.5, "badge": "Excellent" },
-      "total_view": 488,
-      "title": "Biden Pledges Nearly $3 Billion To Ukraine In Largest U.S. Military Aid Package Yet",
-      "thumbnail_url": "https://i.ibb.co/QnwC4sG/unsplash-Eh-Tc-C9s-YXsw-11.png",
-      "image_url": "https://i.ibb.co/M23fhxm/unsplash-Eh-Tc-C9s-YXsw.png",
-      "details": "Wednesday, August 24, 2022 | Tag Cloud Tags: Biden, EU, Euro, Europe, Joe Biden, Military, News, Russia"
+      "name": "React",
+      "star": 4.5, 
+      "badge": "Excellent",
+      "about": "React uses declarative instead of imperative syntax. It’s a simpler way of developing apps, and you can learn why here. Basically, React is faster to develop with because you don’t need to tell the app how to represent the state — you just need to say what you’d like to happen. It’s quick, it’s easy, and there’s less room for human error. Once you understand the basic architecture and thinking behind React, you’ll be able to develop fully functioning apps for both Android and iOS. You won’t have to learn two different ways to represent your app. So after you learn React, you can bring your new product to users not just as quickly as possible, but as widely as possible.",
+
+      "image": "https://madewithreactjs.com/storage/nova-elements/ZGjo0AHN1tgMoN6Dg52HXmoFIDZZ17IuSV8FapR5.jpeg",
+      "time" : "15 Weeks",
+      "class" : "70 Classes"
     },
     {
       "id": "5",
-      "name": "Problems solving",
-      "category_id":  "05",
-      "rating": { "number": 4.5, "badge": "Excellent" },
-      "total_view": 488,
-      "title": "Biden Pledges Nearly $3 Billion To Ukraine In Largest U.S. Military Aid Package Yet",
-      "thumbnail_url": "https://i.ibb.co/QnwC4sG/unsplash-Eh-Tc-C9s-YXsw-11.png",
-      "image_url": "https://i.ibb.co/M23fhxm/unsplash-Eh-Tc-C9s-YXsw.png",
-      "details": "Wednesday, August 24, 2022 | Tag Cloud Tags: Biden, EU, Euro, Europe, Joe Biden, Military, News, Russia"
+      "name": "PHP",
+      "star": 4.5, 
+      "badge": "Excellent",
+      "about": "PHP is a server-side scripting language that is widely used for web development and business application. The open-source tools and high running speed make PHP one of the most preferred languages for creating interactive websites and web applications. Some of the biggest web platforms of today, including Facebook, Flickr, Yahoo, MailChimp, and Wikipedia, to name a few, use PHP in their end-to-end computing infrastructure. As the market for PHP increases, businesses are looking for new PHP web development trends to develop a perfect web app. Keep reading to learn more about PHP technology, applications of PHP framework, and how to build a career as a PHP Developer.",
+
+      "image": "https://img.besthqwallpapers.com/Uploads/6-4-2020/127470/php-black-logo-programming-language-grid-metal-background-php-artwork.jpg",
+      "time" : "14 Weeks",
+      "class" : "60 Classes"
     },
     {
       "id": "6",
-      "name": "Problems solving",
-      "category_id":  "06",
-      "rating": { "number": 4.5, "badge": "Excellent" },
-      "title": "Biden Pledges Nearly $3 Billion To Ukraine In Largest U.S. Military Aid Package Yet",
-      "thumbnail_url": "https://i.ibb.co/QnwC4sG/unsplash-Eh-Tc-C9s-YXsw-11.png",
-      "image_url": "https://i.ibb.co/M23fhxm/unsplash-Eh-Tc-C9s-YXsw.png",
-      "details": "Wednesday, August 24, 2022 | Tag Cloud Tags: Biden, EU, Euro, Europe, Joe Biden, Military, News, Russia"
+      "name": "Angular",
+      "star": 4.5, 
+      "badge": "Excellent",
+      "about": "BAngular is a Javascript framework that is used by developers for building web, desktop, and mobile applications. Development of Angular applications involves usage of Typescript, which is a superset of Javascript, along with HTML, CSS etc. The code written in Typescript compiles to Javascript and is rendered in the browser. Angular is one of the most popular Javascript frameworks for building web applications. There have been three popular versions of Angular to date -- Angular 1 (also known as AngularJS), followed by Angular 2, which was succeeded by Angular 4. There are several advantages of using Angular, some of which are mentioned below.",
+      "image": "https://wallpapercave.com/wp/wp5722051.jpg",
+      "time" : "10 Weeks",
+      "class" : "40 Classes"
     }
 
   ]
