@@ -8,7 +8,9 @@
 
       "image": "https://img.besthqwallpapers.com/Uploads/19-2-2020/122227/javascript-glitter-logo-programming-language-grid-metal-background-javascript-creative.jpg",
       "time" : "5 Weeks",
-      "class" : "32 Classes"
+       "price" : 80 ,
+      "classes" : "32 classes"
+     
     },
     {
       "id": "2",
@@ -19,7 +21,8 @@
 
       "image": "https://mir-s3-cdn-cf.behance.net/project_modules/2800_opt_1/f5643096750899.5eb54f3381b8f.png",
       "time" : "24Weeks",
-      "class" : "150 Classes"
+      "price" : 200 ,
+      "classes" : "150 classes"
     },
     {
       "id": "3",
@@ -30,7 +33,8 @@
 
       "image": "https://resources.stdio.vn/content/article/9-tinh-nang-quan-trong-trong-c-11/thumbnail-hd/blob-1594895703739@2x.jpg",
       "time" : "28Weeks",
-      "class" : "180 Classes"
+      "price" : 200,
+      "classes" : "180 classes"
     },
     {
       "id": "4",
@@ -41,7 +45,8 @@
 
       "image": "https://madewithreactjs.com/storage/nova-elements/ZGjo0AHN1tgMoN6Dg52HXmoFIDZZ17IuSV8FapR5.jpeg",
       "time" : "15 Weeks",
-      "class" : "70 Classes"
+      "price" :150, 
+      "classes" : "70 classes"
     },
     {
       "id": "5",
@@ -52,7 +57,8 @@
 
       "image": "https://img.besthqwallpapers.com/Uploads/6-4-2020/127470/php-black-logo-programming-language-grid-metal-background-php-artwork.jpg",
       "time" : "14 Weeks",
-      "class" : "60 Classes"
+      "price" : 130,
+      "classes" : "60 classes"
     },
     {
       "id": "6",
@@ -62,7 +68,8 @@
       "about": "BAngular is a Javascript framework that is used by developers for building web, desktop, and mobile applications. Development of Angular applications involves usage of Typescript, which is a superset of Javascript, along with HTML, CSS etc. The code written in Typescript compiles to Javascript and is rendered in the browser. Angular is one of the most popular Javascript frameworks for building web applications. There have been three popular versions of Angular to date -- Angular 1 (also known as AngularJS), followed by Angular 2, which was succeeded by Angular 4. There are several advantages of using Angular, some of which are mentioned below.",
       "image": "https://wallpapercave.com/wp/wp5722051.jpg",
       "time" : "10 Weeks",
-      "class" : "40 Classes"
+      "price" : 130,
+      "classes" : "40 classes"
     }
 
   ]
